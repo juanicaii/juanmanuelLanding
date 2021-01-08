@@ -1,0 +1,15 @@
+.header {
+  color: #5983b3;
+  height: 800px;
+  width: 100%;
+  display: grid;
+}
+
+.title {
+  color: black;
+  text-align: center;
+}
+
+.span {
+  color: #ebf68e;
+}
